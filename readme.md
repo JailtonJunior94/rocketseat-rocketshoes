@@ -9,11 +9,13 @@ Projeto React utilizando arquitetura flux com redux e redux saga.
 - Redux Saga
 - Styled Components
 - Json Server
+- EsLint
+- Prettier
 
 ## Web
 <p align="center">
-  <img src="readme-images/home.png" width="200" title="Home">
-  <img src="readme-images/cart.png" width="200" alt="Cart">
+  <img src="readme-images/home.png" width="500" title="Home">
+  <img src="readme-images/cart.png" width="500" alt="Cart">
 </p>
 
 ## Como executar?
